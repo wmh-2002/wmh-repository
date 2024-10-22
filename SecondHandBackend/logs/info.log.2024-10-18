@@ -1,0 +1,1478 @@
+[INFO][2024-10-18 16:41:41,249][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:41:41,274][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:41:41,332][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 304 0
+[INFO][2024-10-18 16:41:41,332][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 304 0
+[INFO][2024-10-18 16:41:41,332][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 304 0
+[INFO][2024-10-18 16:41:47,719][basehttp.py:212]"OPTIONS /address/ HTTP/1.1" 200 0
+[INFO][2024-10-18 16:41:47,720][basehttp.py:212]"OPTIONS /product/?page=1&page_size=2&name= HTTP/1.1" 200 0
+[INFO][2024-10-18 16:41:47,732][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:41:47,740][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 16:41:47,741][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1354
+[INFO][2024-10-18 16:42:52,166][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:42:52,168][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:42:53,853][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:42:53,855][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:43:09,824][basehttp.py:212]"OPTIONS /users/ HTTP/1.1" 200 0
+[INFO][2024-10-18 16:43:09,892][basehttp.py:212]"POST /users/ HTTP/1.1" 200 850
+[INFO][2024-10-18 16:43:18,463][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:43:18,467][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:43:21,889][basehttp.py:212]"GET /media/81cb73d4-dfdc-4841-9c08-f326c01e14b1.png HTTP/1.1" 304 0
+[INFO][2024-10-18 16:43:21,890][basehttp.py:212]"GET /media/b40d8d8e-c72b-4c85-b33b-2b9723fed4a5.png HTTP/1.1" 304 0
+[INFO][2024-10-18 16:43:21,898][basehttp.py:212]"GET /users/34119919616/ HTTP/1.1" 200 279
+[INFO][2024-10-18 16:43:21,904][basehttp.py:212]"GET /media/9204d61d-bc28-4929-b7c4-a3c6bc6dadf5.jpg HTTP/1.1" 304 0
+[INFO][2024-10-18 16:43:53,890][basehttp.py:212]"POST /users/ HTTP/1.1" 200 850
+[INFO][2024-10-18 16:43:55,332][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:43:55,335][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:44:11,611][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:44:11,616][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:44:14,181][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 16:44:14,184][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:44:14,189][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 16:44:14,210][basehttp.py:212]"GET /media/93b0e4c1-6fad-4442-93cc-41cee4bec900.jpg HTTP/1.1" 304 0
+[INFO][2024-10-18 16:44:29,175][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 16:44:29,175][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 16:44:29,176][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:44:34,152][basehttp.py:212]"OPTIONS /product/ HTTP/1.1" 200 0
+[INFO][2024-10-18 16:44:34,166][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2309
+[INFO][2024-10-18 16:44:34,171][basehttp.py:212]"GET /media/50f32292-2367-4b37-9d48-210d3bcccdb8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 16:44:34,539][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:44:34,539][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 16:44:34,541][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 16:44:34,906][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2309
+[INFO][2024-10-18 16:44:37,428][basehttp.py:212]"OPTIONS /users/34119919616 HTTP/1.1" 200 0
+[INFO][2024-10-18 16:44:37,433][basehttp.py:212]"OPTIONS /users/34119919616/ HTTP/1.1" 200 0
+[INFO][2024-10-18 16:44:37,439][basehttp.py:212]"GET /users/34119919616/ HTTP/1.1" 200 279
+[INFO][2024-10-18 16:44:39,429][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2309
+[INFO][2024-10-18 16:44:40,448][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2309
+[INFO][2024-10-18 16:45:13,334][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 16:45:13,337][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 16:46:38,134][basehttp.py:212]"GET / HTTP/1.1" 200 5736
+[INFO][2024-10-18 16:46:38,166][basehttp.py:212]"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,167][basehttp.py:212]"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,170][basehttp.py:212]"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,177][basehttp.py:212]"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,178][basehttp.py:212]"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,181][basehttp.py:212]"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,181][basehttp.py:212]"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,181][basehttp.py:212]"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,182][basehttp.py:212]"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,183][basehttp.py:212]"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,183][basehttp.py:212]"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[INFO][2024-10-18 16:46:38,192][basehttp.py:212]"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[WARNING][2024-10-18 16:46:38,286][log.py:241]Not Found: /favicon.ico
+[WARNING][2024-10-18 16:46:38,287][basehttp.py:212]"GET /favicon.ico HTTP/1.1" 404 8355
+[INFO][2024-10-18 16:46:40,763][basehttp.py:212]"GET /product/ HTTP/1.1" 200 14649
+[INFO][2024-10-18 16:46:50,672][basehttp.py:212]"GET /product/?category=1 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:47:23,036][basehttp.py:212]"GET /category/ HTTP/1.1" 200 12778
+[INFO][2024-10-18 16:47:38,279][basehttp.py:212]"GET /product/ HTTP/1.1" 200 14649
+[INFO][2024-10-18 16:47:56,900][basehttp.py:212]"GET /product/category=5 HTTP/1.1" 301 0
+[WARNING][2024-10-18 16:47:56,905][log.py:241]Unauthorized: /product/category=5/
+[WARNING][2024-10-18 16:47:56,906][basehttp.py:212]"GET /product/category%3D5/ HTTP/1.1" 401 5343
+[INFO][2024-10-18 16:48:08,038][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[ERROR][2024-10-18 16:48:45,983][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 288, in list
+    cat_instance = self.get_category(catagory)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 315, in get_category
+    print(category.children)
+          ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'children'
+[ERROR][2024-10-18 16:48:45,986][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 500 104481
+[INFO][2024-10-18 16:49:32,063][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:49:48,682][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:50:32,625][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[WARNING][2024-10-18 16:50:59,212][log.py:241]Unauthorized: /product/category=5/
+[WARNING][2024-10-18 16:50:59,213][basehttp.py:212]"GET /product/category%3D5/ HTTP/1.1" 401 5343
+[INFO][2024-10-18 16:51:03,938][basehttp.py:212]"GET /category/ HTTP/1.1" 200 12778
+[INFO][2024-10-18 16:51:11,158][basehttp.py:212]"GET /product/ HTTP/1.1" 200 14649
+[INFO][2024-10-18 16:51:16,295][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:51:18,416][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:51:28,976][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[ERROR][2024-10-18 16:52:39,817][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 288, in list
+    cat_instance = self.get_category(catagory)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 316, in get_category
+    if serializer.data.children:
+       ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ReturnDict' object has no attribute 'children'
+[ERROR][2024-10-18 16:52:39,821][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 500 105227
+[INFO][2024-10-18 16:53:11,906][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:53:35,604][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:55:09,131][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[ERROR][2024-10-18 16:58:54,367][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 288, in list
+    cat_instance = self.get_category(catagory)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'ProductViewSet' object has no attribute 'get_category'
+[ERROR][2024-10-18 16:58:54,370][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 500 100547
+[INFO][2024-10-18 16:59:12,564][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[INFO][2024-10-18 16:59:48,869][basehttp.py:212]"GET /category/ HTTP/1.1" 200 12778
+[INFO][2024-10-18 17:01:28,431][basehttp.py:212]"GET /product/ HTTP/1.1" 200 14649
+[INFO][2024-10-18 17:01:32,347][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 14701
+[INFO][2024-10-18 17:01:39,735][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[INFO][2024-10-18 17:02:55,134][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[ERROR][2024-10-18 17:04:14,390][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 289, in list
+    catagory_ids = [item.id for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 289, in <listcomp>
+    catagory_ids = [item.id for item in last_level_categories]
+                    ^^^^^^^
+AttributeError: 'dict' object has no attribute 'id'
+[ERROR][2024-10-18 17:04:14,394][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 500 105309
+[INFO][2024-10-18 17:04:32,024][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 14701
+[ERROR][2024-10-18 17:06:15,961][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 300, in list
+    products = products.filter(category_id_in=category_ids)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1613, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1645, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1495, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1307, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\db\models\sql\query.py", line 1772, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'category_id_in' into field. Choices are: cartitem, category, category_id, created_at, description, id, images, name, price, sale_status, shopping_address, status, stock, updated_at, user, user_id
+[ERROR][2024-10-18 17:06:15,966][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 500 142980
+[INFO][2024-10-18 17:06:52,613][basehttp.py:212]"GET /product/?category=6 HTTP/1.1" 200 11262
+[ERROR][2024-10-18 17:07:09,062][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 289, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:07:09,066][basehttp.py:212]"GET /product/ HTTP/1.1" 500 100032
+[INFO][2024-10-18 17:07:39,148][basehttp.py:212]"GET /product/ HTTP/1.1" 200 14649
+[INFO][2024-10-18 17:07:50,686][basehttp.py:212]"GET /product/category=6 HTTP/1.1" 301 0
+[WARNING][2024-10-18 17:07:50,691][log.py:241]Unauthorized: /product/category=6/
+[WARNING][2024-10-18 17:07:50,691][basehttp.py:212]"GET /product/category%3D6/ HTTP/1.1" 401 5343
+[INFO][2024-10-18 17:07:57,941][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 5214
+[INFO][2024-10-18 17:08:19,868][basehttp.py:212]"GET /product/?category=5 HTTP/1.1" 200 5214
+[INFO][2024-10-18 17:08:33,743][basehttp.py:212]"GET /product/?category=7 HTTP/1.1" 200 5214
+[INFO][2024-10-18 17:09:12,173][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:09:12,203][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:10:23,813][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category= HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:23,824][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:10:23,829][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category= HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:10:26,280][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:10:26,286][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category= HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:10:36,478][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:36,493][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:10:36,514][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:10:36,517][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:10:47,916][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:10:47,932][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:10:47,935][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:10:50,274][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:50,289][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:10:50,784][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:50,792][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:51,188][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:51,195][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:51,653][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:51,663][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:10:52,044][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:52,052][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:52,398][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:10:52,406][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:52,791][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:53,148][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:53,508][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:10:53,734][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:54,731][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:55,078][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:10:55,418][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:55,845][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:10:56,365][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:10:56,726][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:10:58,568][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:10:58,584][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:10:58,588][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:10:59,771][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:06,598][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:11:06,614][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:11:06,617][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:11:07,750][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:08,244][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:08,606][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:08,982][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:09,297][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:09,702][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:10,102][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:10,434][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:10,893][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:11,268][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:11:11,634][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:11,960][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:13,469][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:14,033][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:21,412][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:11:21,413][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:11:21,421][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:11:25,571][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:11:25,571][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:11:25,572][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:11:43,845][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:11:43,858][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:11:43,861][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:11:45,173][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:11:45,685][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:11:46,081][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:12:31,252][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:12:31,265][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:12:31,268][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:12:33,749][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:12:34,193][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:12:36,441][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:12:37,019][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:13:05,163][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:13:05,177][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:13:05,180][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 100758
+[INFO][2024-10-18 17:13:14,628][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:13:14,629][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:13:14,646][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:13:14,660][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:13:14,663][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 101023
+[INFO][2024-10-18 17:13:26,790][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:13:26,790][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:13:26,813][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[ERROR][2024-10-18 17:13:26,829][log.py:241]Internal Server Error: /product/
+Traceback (most recent call last):
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\pyhonProject\Django\SecondHandBackend\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\pyhonProject\Django\SecondHandBackend\SecondHandBackend\apps\product\views.py", line 299, in list
+    category_ids = [item.get('id') for item in last_level_categories]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+[ERROR][2024-10-18 17:13:26,832][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 500 101023
+[INFO][2024-10-18 17:14:17,899][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:14:17,899][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:14:17,922][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:14:17,963][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:14:18,183][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:14:18,238][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:14:18,256][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:15:09,726][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:16:19,114][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:16:19,147][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:16:33,220][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:16:33,222][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:16:33,240][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:16:33,248][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:16:33,527][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:16:33,561][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:16:33,570][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:17:46,354][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:17:46,354][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:17:46,372][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:17:46,412][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:17:46,654][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:17:46,696][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:17:46,713][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:18:17,492][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:18:17,492][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:18:17,510][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:18:17,528][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:18:52,650][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:18:52,665][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:19:06,171][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:19:26,977][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:19:26,983][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:20:40,197][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:20:40,200][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:20:50,731][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=1 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:20:50,733][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:20:54,805][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:20:54,808][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:21:00,888][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:21:00,892][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:21:11,253][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:11,255][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:11,273][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:21:11,278][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:21:11,545][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:21:11,568][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:21:11,588][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:21:22,861][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:22,861][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:22,880][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:21:22,884][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:21:22,892][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:21:22,894][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:21:22,899][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:21:41,732][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:41,732][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:41,748][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:21:41,751][basehttp.py:212]"GET /product/?amount=all&sale_status=2 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:21:41,760][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:21:41,761][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:21:41,765][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:21:44,026][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:44,036][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:21:47,673][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:21:47,688][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:22:05,456][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:05,467][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:22:12,252][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:12,262][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:22:12,267][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:12,276][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:16,033][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:16,047][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:22:16,079][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:16,089][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:21,830][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:22:22,272][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:23,015][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:23,320][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:22:23,610][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:24,195][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:22:24,410][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:30,298][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:30,314][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:22:30,322][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:22:30,324][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:22:31,493][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:31,501][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:32,065][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:32,077][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:22:32,085][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:22:32,487][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:32,495][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:32,948][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:32,955][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:33,659][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:22:33,666][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:22:44,973][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:22:44,996][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:04,559][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:23:04,570][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:32,778][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:23:32,793][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:34,627][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:35,360][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:36,614][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:23:36,629][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:37,406][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:37,848][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:38,152][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:38,417][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:38,820][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:39,106][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:43,678][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:23:43,689][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:45,155][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:45,711][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:51,499][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:51,512][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:23:51,544][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:51,557][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:52,117][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:52,126][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:52,589][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:52,604][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:52,612][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:23:52,613][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:23:53,346][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:53,355][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:53,694][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:53,709][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:53,718][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:23:53,719][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:23:54,934][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:54,942][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:55,303][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:55,318][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:23:55,326][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 17:23:55,328][basehttp.py:212]"GET /media/fa5af1a8-e58b-4796-b0fd-b1aac85b84f0.png HTTP/1.1" 200 256480
+[INFO][2024-10-18 17:23:55,640][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:55,649][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:56,037][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:56,048][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:23:56,057][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:23:56,454][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:56,462][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:56,758][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:56,766][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:57,170][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:57,178][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:23:57,450][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:57,461][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:23:57,472][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 17:23:57,701][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:23:57,710][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:07,708][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:24:07,720][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:24:07,731][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:24:07,740][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:22,696][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:24:22,708][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:24:22,745][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:24:22,756][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:25,689][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:24:26,603][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:26,981][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:24:36,833][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:24:36,844][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:38,273][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:24:38,863][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:39,269][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:39,649][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:24:40,022][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:40,818][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:41,221][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:41,565][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:24:41,932][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:42,364][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:24:42,684][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:43,182][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:24:43,472][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:43,745][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:24:44,047][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:44,330][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:44,995][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:24:46,794][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:24:46,809][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:25:20,092][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:25:20,119][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:26:07,285][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:26:07,313][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:02,823][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:02,863][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:03,880][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:04,456][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:04,800][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:05,171][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:05,762][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:06,153][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:06,436][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:06,756][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:06,998][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:07,246][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:07,582][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:07,929][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:08,209][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:08,517][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:08,762][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:13,452][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:13,469][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:14,107][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:14,125][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:14,961][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:14,978][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:15,583][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:15,600][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:33,393][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:33,793][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:34,291][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:34,628][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:34,866][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:35,125][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:35,423][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:35,693][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:35,964][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:36,347][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:36,605][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:36,940][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:37,210][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:37,474][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:37,688][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:38,025][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:38,828][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2196
+[INFO][2024-10-18 17:27:40,534][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:27:40,535][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:40,544][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:27:42,332][basehttp.py:212]"OPTIONS /product/?page=2&page_size=2&name= HTTP/1.1" 200 0
+[INFO][2024-10-18 17:27:42,341][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 894
+[INFO][2024-10-18 17:27:44,029][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:27:50,031][basehttp.py:212]"OPTIONS /product/b28dd2e6-7648-4cc3-8b21-1b9a5480939f/discount/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:27:50,040][basehttp.py:212]"PUT /product/b28dd2e6-7648-4cc3-8b21-1b9a5480939f/discount/ HTTP/1.1" 200 25
+[INFO][2024-10-18 17:27:50,059][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:27:51,085][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2309
+[INFO][2024-10-18 17:27:54,015][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:27:54,033][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2769
+[INFO][2024-10-18 17:27:58,110][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 17:27:58,436][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:27:58,711][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:27:58,977][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:59,264][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2769
+[INFO][2024-10-18 17:27:59,635][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:27:59,925][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:28:00,730][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:28:00,982][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2769
+[INFO][2024-10-18 17:28:03,267][basehttp.py:212]"OPTIONS /users/78361344000 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:28:03,268][basehttp.py:212]"GET /media/45be9f9b-5a34-4a50-9f0e-aef5b037acc4.jpg HTTP/1.1" 304 0
+[INFO][2024-10-18 17:28:03,271][basehttp.py:212]"OPTIONS /users/78361344000/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:28:03,277][basehttp.py:212]"GET /users/78361344000/ HTTP/1.1" 200 214
+[INFO][2024-10-18 17:28:05,474][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:28:05,492][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2769
+[INFO][2024-10-18 17:30:23,230][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:30:23,230][basehttp.py:212]"GET /category/ HTTP/1.1" 200 820
+[INFO][2024-10-18 17:30:23,234][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:30:37,166][basehttp.py:212]"GET /product/?category=7 HTTP/1.1" 200 5214
+[WARNING][2024-10-18 17:30:39,425][log.py:241]Unauthorized: /product/category=6/
+[WARNING][2024-10-18 17:30:39,426][basehttp.py:212]"GET /product/category%3D6/ HTTP/1.1" 401 5343
+[INFO][2024-10-18 17:30:46,506][basehttp.py:212]"GET /category/ HTTP/1.1" 200 12778
+[INFO][2024-10-18 17:31:18,439][basehttp.py:212]"POST /category/ HTTP/1.1" 201 10296
+[WARNING][2024-10-18 17:31:22,158][log.py:241]Not Found: /pictures/
+[WARNING][2024-10-18 17:31:22,158][basehttp.py:212]"GET /pictures/ HTTP/1.1" 404 8349
+[INFO][2024-10-18 17:31:24,205][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:31:24,205][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:31:24,206][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:28,382][views.py:206]34119919616
+[INFO][2024-10-18 17:32:28,384][views.py:215]{'name': 'nike球鞋', 'description': '全新没穿过 43码!', 'user': <UserProfile: 王梦辉>, 'price': Decimal('599.00'), 'stock': 2, 'category': <Category: 鞋子>, 'shopping_address': '中国河南商丘'}
+[INFO][2024-10-18 17:32:28,389][basehttp.py:212]"POST /product/ HTTP/1.1" 201 25
+[INFO][2024-10-18 17:32:28,421][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:30,969][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:32:30,970][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:32:30,973][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:32,789][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 1457
+[INFO][2024-10-18 17:32:32,937][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 17:32:34,035][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:35,317][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 1457
+[INFO][2024-10-18 17:32:35,763][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:36,087][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 1457
+[INFO][2024-10-18 17:32:37,235][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 17:32:39,505][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:32:39,506][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:32:39,509][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:32:41,435][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 1457
+[INFO][2024-10-18 17:32:41,447][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:32:50,004][basehttp.py:212]"OPTIONS /product/04e22aa4-02f4-4da2-92eb-f339db6dc3e5/discount/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:32:50,010][basehttp.py:212]"PUT /product/04e22aa4-02f4-4da2-92eb-f339db6dc3e5/discount/ HTTP/1.1" 200 25
+[INFO][2024-10-18 17:32:50,030][basehttp.py:212]"GET /product/?page=2&page_size=2&name= HTTP/1.1" 200 1457
+[INFO][2024-10-18 17:32:51,098][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 17:32:53,543][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:32:53,564][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:32:57,226][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:32:57,562][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:32:57,907][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:32:58,491][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:32:58,983][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:32:59,278][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:32:59,924][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:00,443][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:33:00,726][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:01,539][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:02,977][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:04,058][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:33:04,880][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:06,945][basehttp.py:212]"GET /users/34119919616/ HTTP/1.1" 200 279
+[INFO][2024-10-18 17:33:10,049][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:33:10,071][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:33:15,911][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:19,284][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:33:22,026][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:33:22,633][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 17:33:23,245][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:33:23,537][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:23,843][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:24,163][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:33:24,543][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:25,359][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:26,620][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:27,425][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:27,764][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:33:28,107][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 17:33:28,587][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 17:33:31,267][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:31,668][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:36,340][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 17:33:57,380][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:33:57,393][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:33:57,400][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 17:34:35,106][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:34:35,134][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:34:35,167][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:34:40,971][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:34:40,972][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:34:40,975][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:34:41,912][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 17:34:44,951][basehttp.py:212]"GET /media/93b0e4c1-6fad-4442-93cc-41cee4bec900.jpg HTTP/1.1" 200 83936
+[INFO][2024-10-18 17:34:46,739][basehttp.py:212]"GET /users/34119919616/ HTTP/1.1" 200 279
+[INFO][2024-10-18 17:34:47,944][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 17:34:49,557][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:34:49,557][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 17:34:49,560][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:34:53,800][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:34:53,820][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 17:34:53,826][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:35:26,054][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:35:26,101][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 2769
+[INFO][2024-10-18 17:35:55,268][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:35:55,329][basehttp.py:81]- Broken pipe from ('127.0.0.1', 50069)
+[INFO][2024-10-18 17:35:55,393][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:35:55,419][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 58
+[INFO][2024-10-18 17:36:07,412][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:36:07,466][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:36:07,512][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:36:12,543][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:36:12,564][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:36:14,350][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 17:36:14,353][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:36:14,361][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 899
+[INFO][2024-10-18 17:36:15,312][basehttp.py:212]"GET /product/ HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:06,137][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:06,158][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:08,190][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:08,216][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:08,261][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:37:32,072][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:32,093][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:37,052][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:37,076][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:37,127][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:37:37,966][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:37,992][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:37:58,948][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:37:58,969][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:38:27,786][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:38:27,807][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:38:32,641][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:38:32,668][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:38:32,713][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 17:39:34,955][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 17:39:34,969][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 17:39:34,980][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 17:39:35,008][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 17:39:35,157][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:41:48,867][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 18:41:48,892][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:41:48,907][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:41:48,967][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:41:49,122][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:42:13,209][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 18:42:13,226][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:42:13,260][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:42:13,318][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 1346
+[INFO][2024-10-18 18:42:13,536][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:42:13,559][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 18:42:23,870][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 18:42:23,888][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:42:23,911][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:42:23,954][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:42:24,109][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:43:53,306][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 18:43:53,321][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:43:53,333][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:43:53,358][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:43:53,365][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:43:58,593][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:43:58,615][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 899
+[INFO][2024-10-18 18:43:58,621][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 18:44:01,251][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:01,267][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:44:01,273][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:44:02,015][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:02,028][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:44:02,036][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 18:44:02,743][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:02,757][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:44:02,764][basehttp.py:212]"GET /media/93b0e4c1-6fad-4442-93cc-41cee4bec900.jpg HTTP/1.1" 200 83936
+[INFO][2024-10-18 18:44:03,612][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:03,622][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:44:04,305][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:04,319][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:44:04,326][basehttp.py:212]"GET /media/93b0e4c1-6fad-4442-93cc-41cee4bec900.jpg HTTP/1.1" 200 83936
+[INFO][2024-10-18 18:44:05,852][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:05,868][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 899
+[INFO][2024-10-18 18:44:05,873][basehttp.py:212]"GET /media/d26a1b21-c95a-416d-b50c-313150386123.png HTTP/1.1" 200 10787
+[INFO][2024-10-18 18:44:09,059][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:09,077][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:44:09,082][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:44:09,996][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:10,009][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:44:10,018][basehttp.py:212]"GET /media/8df2a291-9b82-4f86-862d-ba10386a5778.jpg HTTP/1.1" 200 605963
+[INFO][2024-10-18 18:44:13,070][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:13,089][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:44:13,094][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:44:17,680][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:17,693][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:44:17,698][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 18:44:17,719][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:44:17,726][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 200 22438
+[INFO][2024-10-18 18:44:45,292][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 899
+[INFO][2024-10-18 18:44:45,794][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:44:59,183][basehttp.py:81]- Broken pipe from ('127.0.0.1', 55858)
+[INFO][2024-10-18 18:44:59,500][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:44:59,529][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:45:16,758][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:45:16,802][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:45:19,240][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:45:19,772][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:45:20,513][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:45:21,158][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:45:21,651][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:45:22,151][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:45:24,835][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:45:27,617][basehttp.py:212]"GET /users/78361344000/ HTTP/1.1" 200 214
+[INFO][2024-10-18 18:45:29,521][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:45:29,543][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:45:58,556][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:45:59,166][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:46:00,269][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:46:01,819][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:46:02,530][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:46:03,454][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:46:08,702][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:46:09,973][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:46:10,493][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:46:10,912][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:46:11,395][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:46:12,182][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:46:35,935][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:46:35,967][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:46:37,182][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:46:37,809][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:46:38,622][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:46:39,182][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=9 HTTP/1.1" 200 630
+[INFO][2024-10-18 18:46:39,616][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:46:50,078][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:46:50,101][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:46:53,461][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:46:53,481][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:46:54,894][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:46:55,429][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:46:55,948][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:46:56,556][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:07,382][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:07,405][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:10,053][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:10,074][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:17,775][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:17,798][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:25,808][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:25,828][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:27,880][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:47:28,534][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:47:29,209][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=10 HTTP/1.1" 200 58
+[INFO][2024-10-18 18:47:30,794][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:31,409][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=6 HTTP/1.1" 200 1470
+[INFO][2024-10-18 18:47:31,844][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:32,413][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:47:33,219][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=8 HTTP/1.1" 200 783
+[INFO][2024-10-18 18:47:33,681][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=7 HTTP/1.1" 200 620
+[INFO][2024-10-18 18:47:34,429][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:36,785][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:36,806][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:47:43,687][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:47:43,708][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:49:11,664][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:49:11,692][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:51:05,901][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:51:05,927][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:51:07,991][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:51:08,014][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:51:17,979][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:51:18,000][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:52:07,804][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:52:07,828][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:52:07,850][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 18:58:36,312][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:58:36,333][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:59:33,359][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:59:33,379][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 18:59:39,647][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 18:59:39,669][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:00:57,782][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:00:57,805][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:00:57,815][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 19:01:17,809][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:01:17,833][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:01:27,201][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:01:27,221][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:02:05,498][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:02:05,519][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:02:36,323][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:02:36,354][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:02:48,970][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:02:49,006][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:03:02,207][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:03:02,232][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:03:12,278][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:03:12,343][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:03:21,935][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:03:21,956][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:03:48,127][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:03:48,149][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:03:57,957][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:03:57,982][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:04:02,474][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:04:02,496][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:04:36,471][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:04:36,493][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:04:48,043][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:04:48,064][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:04:55,073][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:04:55,099][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:05:10,495][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:05:10,519][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:05:19,130][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:05:19,157][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:05:53,512][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:05:53,532][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:05:57,083][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:05:57,108][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:06:04,769][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:06:04,789][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:06:17,660][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:06:17,682][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:07:10,718][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:07:10,739][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:07:19,455][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:07:19,483][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:07:27,488][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:07:27,508][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:07:36,051][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:07:36,078][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:08:16,992][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:08:17,015][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:08:37,909][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:08:37,934][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:08:53,246][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:08:53,266][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:09:33,994][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:09:34,017][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:09:52,117][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:09:52,136][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:10:28,836][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:10:28,859][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:10:46,609][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:10:46,630][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:10:55,312][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:10:55,333][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:12:39,646][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:12:39,670][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:12:39,698][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 19:12:51,735][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:12:51,761][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:13:02,906][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:13:02,930][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:13:18,628][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:13:18,654][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:13:34,817][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:13:34,843][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:13:42,567][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:13:42,591][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:13:50,249][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:13:50,272][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:14:21,454][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:14:21,478][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:14:27,898][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:14:27,920][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:14:41,189][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:14:41,213][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:14:49,419][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:14:49,441][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:05,917][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:05,942][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:13,730][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:13,752][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:17,889][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:17,912][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:27,850][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:27,873][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:33,949][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:33,973][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:40,089][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:40,114][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:15:56,165][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:15:56,185][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:16:13,752][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:16:13,776][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:16:25,534][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:16:25,555][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:16:47,982][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:16:48,007][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:16:56,351][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:16:56,371][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:08,491][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:08,512][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:11,076][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:11,098][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:24,078][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:24,098][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:29,902][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:29,928][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:51,315][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:51,337][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:54,036][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:54,057][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:17:57,775][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:17:57,797][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:18:44,654][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:18:44,677][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:19:01,729][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:19:01,756][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:19:05,579][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:19:05,614][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:19:36,923][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:19:36,949][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:20:33,306][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:20:33,330][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:01,375][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:01,399][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:06,230][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:06,256][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:12,213][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:12,237][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:15,881][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:15,910][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:29,788][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:29,809][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:34,578][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:34,599][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:42,932][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:42,958][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:21:44,517][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:21:44,548][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:22:16,799][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:22:16,831][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:22:18,621][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:22:18,642][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:22:35,663][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:22:35,684][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:23:02,613][basehttp.py:212]"OPTIONS /users/ HTTP/1.1" 200 0
+[INFO][2024-10-18 19:23:02,673][basehttp.py:212]"POST /users/ HTTP/1.1" 200 850
+[INFO][2024-10-18 19:23:02,933][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:23:02,961][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:23:02,981][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 19:23:42,962][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:23:42,983][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:23:48,961][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:23:48,981][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:23:56,493][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:23:56,516][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:23:58,123][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:23:58,147][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:24:16,265][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:24:16,286][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:24:32,863][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:24:32,886][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:24:43,990][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:24:44,014][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:03,645][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:03,668][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:12,404][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:12,428][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:27,394][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:27,414][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:29,750][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:29,777][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:32,591][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:32,612][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:43,117][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:43,140][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:57,430][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:57,456][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:25:59,848][basehttp.py:212]"OPTIONS /address/ HTTP/1.1" 200 0
+[INFO][2024-10-18 19:25:59,849][basehttp.py:212]"OPTIONS /product/?page=1&page_size=2&name= HTTP/1.1" 200 0
+[INFO][2024-10-18 19:25:59,867][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:25:59,868][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:25:59,872][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:13,551][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:13,551][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:13,554][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:16,954][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:16,954][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:16,956][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:17,762][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:17,762][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:17,765][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:24,679][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:24,699][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:26:26,298][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:26,298][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:26,302][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:27,089][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:27,090][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:27,093][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:30,725][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:30,746][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:26:38,241][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:26:38,242][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:38,246][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:26:40,256][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:26:40,275][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:28:47,991][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:28:48,014][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:28:59,518][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:28:59,539][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:29:42,361][basehttp.py:212]"OPTIONS /category/ HTTP/1.1" 200 0
+[INFO][2024-10-18 19:29:42,377][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:29:42,390][basehttp.py:212]"OPTIONS /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 0
+[INFO][2024-10-18 19:29:42,412][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:30:11,290][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:30:11,318][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:30:27,120][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:30:27,143][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:30:49,207][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:30:49,227][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:30:55,879][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:30:55,902][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:31:45,265][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:31:45,293][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:31:50,903][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:31:50,927][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:32:36,398][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:32:36,423][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:32:48,499][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:32:48,501][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:32:48,509][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:32:50,847][basehttp.py:212]"OPTIONS /product/ HTTP/1.1" 200 0
+[INFO][2024-10-18 19:32:50,867][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:32:54,349][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:32:54,349][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:32:54,352][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:32:59,176][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:32:59,197][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:33:24,541][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:33:24,572][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:35:49,475][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:35:49,475][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:35:49,480][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:35:52,614][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:35:52,614][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:35:52,618][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:35:55,595][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:35:55,596][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:35:55,600][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:35:58,059][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:35:58,080][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:35:58,087][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 19:35:59,578][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:35:59,579][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:35:59,583][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:36:01,896][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:36:01,896][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:36:01,900][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:36:05,552][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:36:05,575][basehttp.py:212]"GET /product/?amount=all&sale_status=2&category=5 HTTP/1.1" 200 3332
+[INFO][2024-10-18 19:39:16,859][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:39:17,469][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:39:17,474][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:39:17,480][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:39:18,209][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:39:20,803][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:39:21,118][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:39:21,119][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:39:21,123][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:39:21,340][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:39:21,914][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:39:22,246][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:39:22,246][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:39:22,250][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:39:22,479][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:48:34,763][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:48:34,763][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:48:34,768][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:48:35,871][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:48:35,877][basehttp.py:212]"GET /media/ae235adf-7c4a-4df4-b135-55227bedf6b8.png HTTP/1.1" 304 0
+[INFO][2024-10-18 19:53:32,127][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:53:32,127][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:53:32,129][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:53:35,059][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:53:36,088][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:53:36,088][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:53:36,091][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:53:36,673][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:53:39,019][basehttp.py:212]"OPTIONS /users/34119919616 HTTP/1.1" 200 0
+[INFO][2024-10-18 19:53:39,025][basehttp.py:212]"OPTIONS /users/34119919616/ HTTP/1.1" 200 0
+[INFO][2024-10-18 19:53:39,032][basehttp.py:212]"GET /users/34119919616/ HTTP/1.1" 200 279
+[INFO][2024-10-18 19:53:40,647][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:53:43,585][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:53:43,585][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:53:43,589][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:53:43,934][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
+[INFO][2024-10-18 19:55:14,908][basehttp.py:212]"GET /category/ HTTP/1.1" 200 892
+[INFO][2024-10-18 19:55:14,908][basehttp.py:212]"GET /address/ HTTP/1.1" 200 335
+[INFO][2024-10-18 19:55:14,908][basehttp.py:212]"GET /product/?page=1&page_size=2&name= HTTP/1.1" 200 1472
+[INFO][2024-10-18 19:55:20,699][basehttp.py:212]"GET /product/ HTTP/1.1" 200 2872
